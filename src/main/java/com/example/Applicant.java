@@ -15,7 +15,7 @@ public class Applicant {
 	private String phoneNumber;
 
 	public Applicant() {
-		
+
 	}
 
 	public Applicant(String name, String email, String phoneNumber) {
